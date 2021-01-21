@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TreeCardon</string>
+
+        <string name="app_name2">SpinnerInKotlin</string>
+        <string name="selected_item">Selected item:</string>
+
+        <string-array name="Languages">
+            <item>Ek</item>
+            <item>Bok</item>
+            <item>Ask</item>
+            <item>Björk</item>
+            <item>Asp</item>
+            <item>Al</item>
+            <item>Gran</item>
+            <item>Tall</item>
+            <item>Lärk</item>
+        </string-array>
+
+</resources>
